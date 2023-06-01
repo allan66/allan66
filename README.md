@@ -2,9 +2,7 @@
 ## I'm Allan, FullStack Developer living in Brazil, aways searching for evolve and learn more 🚀<br>
 
 ## Contact me!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all6/)
-
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://allan66.github.io/contact-site/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all6/)[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://allan66.github.io/contact-site/)
 <br>
 
 <br>
