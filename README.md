@@ -1,24 +1,24 @@
-# 👨‍💻 Allan | Software Engineer
+# Hello there 👋  
+## 👨‍💻 Allan | Software Engineer
 
-> Turning complex problems into scalable, reliable and production-ready systems 🚀
+> I design and build systems that handle complexity, scale reliably and deliver real business value.
 
 ---
 
 ## 👾 About me
 
-Software Engineer based in Brazil 🇧🇷 with 7+ years of experience building and evolving systems across different stacks and domains.
+I'm a Software Engineer based in Brazil 🇧🇷, building and evolving systems since 2018 across multiple stacks and domains.
 
-- 💼 Currently working at a **financial institution**
-- 🧠 Former **Tech Lead**, leading teams and technical decisions
-- ⚙️ Strong background in **backend, cloud and software architecture**
-- 🚀 Comfortable navigating different technologies to deliver the best solution
+Currently working in a financial environment, I’ve been involved in designing and maintaining systems where reliability, performance and consistency are not optional.
+
+I’ve also worked as a Tech Lead, contributing to architectural decisions, guiding teams and ensuring that solutions are not only delivered — but built to last.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 Degree in **Analysis and Systems Development**
-- 🧠 Postgraduate in **Software Architecture – FIAP**
+- Degree in **Analysis and Systems Development - UNISA **
+- Postgraduate in **Software Architecture - FIAP**
 
 ---
 
@@ -53,11 +53,38 @@ Software Engineer based in Brazil 🇧🇷 with 7+ years of experience building 
 
 - Clean Architecture & Hexagonal Architecture  
 - Domain-Driven Design (DDD)  
-- Event-driven systems (Kafka)  
+- Event-driven systems  
 - Microservices & distributed systems  
-- CI/CD & production environments  
+- CI/CD and production environments  
 
-> I focus on designing systems that remain simple to understand, easy to evolve and reliable under load.
+I approach systems with a strong focus on clarity, evolution and resilience — ensuring that complexity is managed, not amplified.
+
+---
+
+## 🚀 Impact
+
+- Contributed to improving performance and reliability in production systems  
+- Designed and evolved architectures for systems under real-world constraints  
+- Led technical decisions and supported team growth as a Tech Lead  
+- Worked on systems where stability, consistency and fault tolerance are critical  
+
+---
+
+## 🧩 What differentiates me
+
+I’m not tied to a specific stack.
+
+I focus on understanding the problem, evaluating trade-offs and choosing the right tools to build solutions that are scalable, maintainable and aligned with business needs.
+
+---
+
+## 🏗️ System Thinking
+
+I enjoy working on systems where decisions have long-term impact:
+
+- balancing consistency, availability and performance  
+- designing for failure, not just success  
+- building systems that remain understandable as they grow  
 
 ---
 
@@ -79,26 +106,15 @@ Software Engineer based in Brazil 🇧🇷 with 7+ years of experience building 
 
 ---
 
-## ⚡ Engineering Mindset
-
-- Think in **systems, not just features**  
-- Balance **business impact and technical quality**  
-- Build for **scalability, performance and resilience**  
-- Adapt quickly to different stacks and contexts  
-
----
-
-## 📊 GitHub Stats
-
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allan66&show_icons=true&theme=tokyonight)
-
----
-
 ## 👀 Currently exploring
 
-- Advanced **System Design**
-- **Cloud Architecture**
-- High-scale distributed systems
+- Advanced System Design  
+- Cloud Architecture (Azure & AWS)  
+- High-scale distributed systems  
+
+---
+
+💬 “Good systems are not just built — they are designed to survive change.”
 
 ---
 
