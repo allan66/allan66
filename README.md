@@ -102,12 +102,4 @@ I focus on understanding the problem and delivering solutions that still make se
 
 ---
 
-## 👀 Currently exploring
-
-- System Design  
-- Cloud Architecture  
-- Distributed systems  
-
----
-
 💖 Thanks for visiting my profile! 💖
