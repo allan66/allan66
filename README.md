@@ -1,24 +1,26 @@
 # Hello there 👋  
 ## 👨‍💻 Allan | Software Engineer
 
-> I design and build systems that handle complexity, scale reliably and deliver real business value.
+I build systems that need to work in the real world. Reliable, scalable and maintainable.
 
 ---
 
 ## 👾 About me
 
-I'm a Software Engineer based in Brazil 🇧🇷, building and evolving systems since 2018 across multiple stacks and domains.
+I'm a Software Engineer based in Brazil 🇧🇷, working with software development since 2018.
 
-Currently working in a financial environment, I’ve been involved in designing and maintaining systems where reliability, performance and consistency are not optional.
+Most of my experience is around backend, cloud and system design, working with different stacks depending on the context.
 
-I’ve also worked as a Tech Lead, contributing to architectural decisions, guiding teams and ensuring that solutions are not only delivered — but built to last.
+Today I work in a financial environment, where reliability, consistency and performance are part of the daily work.
+
+I’ve also worked as a Tech Lead, helping teams make better technical decisions and keeping things simple, even when the system is not.
 
 ---
 
 ## 🎓 Education
 
-- Degree in **Analysis and Systems Development - UNISA **
-- Postgraduate in **Software Architecture - FIAP**
+- Analysis and Systems Development – UNISA  
+- Postgraduate in Software Architecture – FIAP  
 
 ---
 
@@ -31,7 +33,7 @@ I’ve also worked as a Tech Lead, contributing to architectural decisions, guid
 
 ## ⚙️ Technologies & Tools
 
-### Backend, Cloud & Architecture
+### Backend, Cloud & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -49,55 +51,49 @@ I’ve also worked as a Tech Lead, contributing to architectural decisions, guid
 
 ---
 
-## 🧱 Architecture & Engineering
+## 🧠 Engineering & Architecture
 
-- Clean Architecture & Hexagonal Architecture  
-- Domain-Driven Design (DDD)  
-- Event-driven systems  
-- Microservices & distributed systems  
-- CI/CD and production environments  
+- Clean Architecture and Hexagonal Architecture  
+- Domain-Driven Design (DDD), Event Storming and bounded contexts  
+- Microservices and event-driven systems (including SAGA patterns)  
+- Containers and orchestration with Docker and Kubernetes  
+- CI/CD pipelines and Infrastructure as Code  
+- Observability with metrics, logs and tracing  
+- API Gateway, serverless and distributed systems  
+- Secure development practices (OWASP basics)  
 
-I approach systems with a strong focus on clarity, evolution and resilience — ensuring that complexity is managed, not amplified.
+I try to keep systems simple to understand and easy to evolve, even when the context is complex.
 
----
-
-## 🚀 Impact
-
-- Contributed to improving performance and reliability in production systems  
-- Designed and evolved architectures for systems under real-world constraints  
-- Led technical decisions and supported team growth as a Tech Lead  
-- Worked on systems where stability, consistency and fault tolerance are critical  
+Most of this comes from real usage, not just study.
 
 ---
 
-## 🧩 What differentiates me
+## 🚀 Impact & mindset
 
-I’m not tied to a specific stack.
+- Helped improve performance and reliability in production systems  
+- Worked on systems with real-world constraints  
+- Supported technical decisions and team growth  
+- Experience in environments where stability actually matters  
 
-I focus on understanding the problem, evaluating trade-offs and choosing the right tools to build solutions that are scalable, maintainable and aligned with business needs.
-
----
-
-## 🏗️ System Thinking
-
-I enjoy working on systems where decisions have long-term impact:
-
-- balancing consistency, availability and performance  
-- designing for failure, not just success  
-- building systems that remain understandable as they grow  
+I’m not attached to a specific stack.  
+I focus on understanding the problem and delivering solutions that still make sense over time.
 
 ---
 
-## 🌐 Fullstack Experience
+## 🏗️ How I think about systems
+
+- balance consistency and performance  
+- design for failure, not just success  
+- keep systems understandable as they grow  
+
+---
+
+## 🌐 Fullstack & Databases
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-
----
-
-## 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
@@ -108,14 +104,10 @@ I enjoy working on systems where decisions have long-term impact:
 
 ## 👀 Currently exploring
 
-- Advanced System Design  
-- Cloud Architecture (Azure & AWS)  
-- High-scale distributed systems  
+- System Design  
+- Cloud Architecture  
+- Distributed systems  
 
 ---
 
-💬 “Good systems are not just built — they are designed to survive change.”
-
----
-
-💖 Thanks for visiting my profile!
+💖 Thanks for visiting my profile! 💖
