@@ -1,48 +1,105 @@
-# Hello there 👾 
-## I'm Allan, FullStack Developer living in Brazil, aways searching for evolve and learn more 🚀<br>
+# 👨‍💻 Allan | Software Engineer
 
-## Contact me!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all6/)[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://allan66.github.io/contact-site/)
-<br>
+> Turning complex problems into scalable, reliable and production-ready systems 🚀
 
-<br>
+---
 
-## Main technologies I work or have worked on
+## 👾 About me
 
-<div  style="display:inline_block"> </br>
+Software Engineer based in Brazil 🇧🇷 with 7+ years of experience building and evolving systems across different stacks and domains.
 
-## FrontEnd 🖳
-<br>
-<img align="center" alt="image" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/><br><br>
+- 💼 Currently working at a **financial institution**
+- 🧠 Former **Tech Lead**, leading teams and technical decisions
+- ⚙️ Strong background in **backend, cloud and software architecture**
+- 🚀 Comfortable navigating different technologies to deliver the best solution
 
-## BackEnd 🖳
-<br>
-<img align="center" alt="image" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><br><br>
+---
 
-## Mobile 📱
-<br>
-<img align="center" alt="image" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/><br><br>
+## 🎓 Education
 
-## DataBase 📊
-<br><img align="center" alt="image" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="image" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/><br><br>
+- 🎓 Degree in **Analysis and Systems Development**
+- 🧠 Postgraduate in **Software Architecture – FIAP**
 
-## Cloud ☁️
-<br><img align="center" alt="image" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br><br>
-## 💖💖Thanks for visite my profile!💖💖
+---
 
-</div>
+## 🔗 Connect with me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all6/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://allan66.github.io/contact-site/)
+
+---
+
+## ⚙️ Technologies & Tools
+
+### Backend, Cloud & Architecture
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🧱 Architecture & Engineering
+
+- Clean Architecture & Hexagonal Architecture  
+- Domain-Driven Design (DDD)  
+- Event-driven systems (Kafka)  
+- Microservices & distributed systems  
+- CI/CD & production environments  
+
+> I focus on designing systems that remain simple to understand, easy to evolve and reliable under load.
+
+---
+
+## 🌐 Fullstack Experience
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
+---
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+---
+
+## ⚡ Engineering Mindset
+
+- Think in **systems, not just features**  
+- Balance **business impact and technical quality**  
+- Build for **scalability, performance and resilience**  
+- Adapt quickly to different stacks and contexts  
+
+---
+
+## 📊 GitHub Stats
+
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allan66&show_icons=true&theme=tokyonight)
+
+---
+
+## 👀 Currently exploring
+
+- Advanced **System Design**
+- **Cloud Architecture**
+- High-scale distributed systems
+
+---
+
+💖 Thanks for visiting my profile!
